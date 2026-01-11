@@ -48,6 +48,16 @@ After running the above code, it is necessary to save the result data output by 
 ## More features
 
 
+
+## Basic information on 4 representative U.S. cities we select as e.g.
+| No. | City          | State        | Time Zone    | Census 2020 | Land Area (km²) | Population Density | Congestion Ranking |
+|---:|---------------|--------------|--------------|------------:|----------------:|-------------------:|-------------------:|
+| 1  | San Francisco | California   | Pacific Time | 873,965     | 121.5           | 7,195              | 3                  |
+| 2  | Seattle       | Washington   | Pacific Time | 737,015     | 217.0           | 3,396              | 7                  |
+| 3  | Portland      | Oregon       | Pacific Time | 652,503     | 345.8           | 1,887              | 16                 |
+| 4  | Pittsburgh    | Pennsylvania | Eastern Time | 302,971     | 143.5           | 2,112              | 9                  |
+
+
 ## License
 
 MIT License
