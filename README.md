@@ -26,10 +26,11 @@ conda create -n us_city_pred python=3.10 -y
 conda activate us_city_pred
 pip install -r requirements.txt
 ```
+If the installation is missing, please install.
 Direct installation is likely to fail, you can also install it separately or use [Google Colab](https://colab.research.google.com/).The alternative solution is to [install using Docker](./docs/Cites_docker_setup.md).
 
 ## 1.LODES raw data processing
-We are using using the data from the [LODES](https://lehd.ces.census.gov/data/lodes/)  dataset provided by the U.S. Census Bureau.The LODES dataset includes commuting data for the workforce in all states across the United States over multiple years, which have been widely used in existing studies.If the installation is missing, please add.
+We are using using the data from the [LODES](https://lehd.ces.census.gov/data/lodes/)  dataset provided by the U.S. Census Bureau.The LODES dataset includes commuting data for the workforce in all states across the United States over multiple years, which have been widely used in existing studies.
 
 
 
@@ -42,8 +43,9 @@ We have already used a relatively sophisticated traffic assignment method in our
 After running the above code, it is necessary to save the result data output by Traffic assignment, such as assignment_desult.csv and network.csv, for the next step.
 
 
-## 4.ArcGIS urban congestion visualization and accessibility analysis
-
+## 4.ArcGIS cites congestion visualization and accessibility analysis
+### 4.1 ArcGIS cites congestion visualization
+We use arcgis to visualize VOC images of cities.You can also refer to this [GitHub repo](https://github.com/xuxiaotong/A_unified_and_validated_traffic_dataset_for_20_U.S._cities).In the step3,the output file including assignment_result.csv and network.csv,network.csv can be used to visualize the road network of cities' road network and assignment_result.csv including road network speed data and congestion level, we can put it into ArcGIS to output VOC maps.
 
 ## More features
 
