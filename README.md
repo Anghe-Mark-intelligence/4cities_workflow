@@ -43,8 +43,8 @@ We have already used a relatively sophisticated traffic assignment method in our
 After running the above code, it is necessary to save the result data output by Traffic assignment, such as assignment_desult.csv and network.csv, for the next step.
 
 
-## 4.ArcGIS cites congestion visualization and accessibility analysis
-### 4.1 ArcGIS cites congestion visualization
+## 4.ArcGIS cities congestion visualization and accessibility analysis
+### 4.1 ArcGIS cities congestion visualization
 We use arcgis to visualize VOC images of cities.You can also refer to this [GitHub repo](https://github.com/xuxiaotong/A_unified_and_validated_traffic_dataset_for_20_U.S._cities).In the step3,the output file including assignment_result.csv and network.csv,network.csv can be used to visualize the road network of cities' road network and assignment_result.csv including road network speed data and congestion level, we can put it into ArcGIS to output VOC maps.
 
 ## More features
