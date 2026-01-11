@@ -1,4 +1,4 @@
-# 4cites_workflow
+# 4cites_pipeline
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
