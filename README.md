@@ -75,6 +75,7 @@ In this section,We use [matplotlib.pyplot (plt)](https://matplotlib.org/stable/i
  <img width="1014" height="506" alt="c300abd2d0a943f7bd1a02485aa8ef6a" src="https://github.com/user-attachments/assets/c51ebe16-b852-4f46-8acb-713d6ed7cfc8" />
 <p>
 
+Please fill in your city and year under ./acceptable_analyses, run the code.
 
  
 ## More features
