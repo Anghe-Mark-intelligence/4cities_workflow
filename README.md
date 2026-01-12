@@ -44,9 +44,10 @@ Then, run this code. You can get the network data ('cityname_link.csv' and 'city
 
 01_Check_corruption_or_loss: code for checking the corruption or loss of the downloaded LODES dataset.
 
+This step will output the OD martix of the state/city,by processing historical data,we can get data in different year of the same city.Then,using OD martix,we can move on to the next step:Time series model prediction of OD flow data.
 
 ## 2.Time series model prediction of OD flow data
-
+We are using a time series model, so you need enough years of time series data to input into the model
 
 
 ## 3.Traffic assignment
