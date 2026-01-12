@@ -47,7 +47,12 @@ Then, run this code. You can get the network data ('cityname_link.csv' and 'city
 This step will output the OD martix of the state/city,by processing historical data,we can get data in different year of the same city.Then,using OD martix,we can move on to the next step:Time series model prediction of OD flow data.
 
 ## 2.Time series model prediction of OD flow data
-We are using a time series model, so you need enough years of time series data to input into the model
+We are using a time series model, so you need enough years of time series data to input into the model.So we suggest that you have as much historical OD data as possible to avoid ARIMA oscillatory behavior.
+
+OD_predict_pr_and_analysis folder:‘main.py’ is the main entrance of code. To run this code:
+
+First,please fill in the historical year od data of the city you need in od_ historical data one folder for one year.
+
 
 
 ## 3.Traffic assignment
