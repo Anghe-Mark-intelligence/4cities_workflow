@@ -1,6 +1,6 @@
 # 4cites_pipeline
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)]([https://eavianwoo.github.io/singsPage/](https://anghe-mark-intelligence.github.io/Forcasting-4-cites-in-us/))	
 
 [**Forcasting four representative cities of their future traffic conditions**](https://remaintobeseen)
 
@@ -8,7 +8,6 @@ Author1,Author2,Author3,Author4,Author5
 
 [Journal](https://remaintobeseen)
 
-[Project homepage](https://anghe-mark-intelligence.github.io/Forcasting-4-cites-in-us/)
 
 In this repo, we built a workflow from OD prediction to traffic assignment, and then to urban congestion analysis and accessibility analysis in different [SSP scenario](https://github.com/usutradhar/Population-Trend-Analysis).The workflow can be divided into four stages: 1. LODES raw data processing 2. Time series model prediction of OD flow data 3. Traffic assignment 4. ArcGIS urban congestion visualization and accessibility analysis.
 
