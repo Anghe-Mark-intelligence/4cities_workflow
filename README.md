@@ -55,7 +55,7 @@ First,please fill in the historical year od data of the city you need in od_hist
 
 Second,define start_historical_year、end_historical_year、start_forecast_year、end_forecast_year,it represent the input od data and the future od data will be forecasted.
 
-Then,run this code(Default is parallel).You can obtain the OD probability matrix for future years.We need real OD traffic flow as traffic assignment, so we calibrate it with SSP data.Use the code generate_od_from_pr.py,define the SSP_BY_YEAR and run the code,then you can get od_matrix,using transformation_csv.py to convert the entire OD matrix into the forms of O-ID, D_ID, and number,then We can move to the next step.
+Then,run this code(Default is parallel).You can obtain the OD probability matrix for future years.We need real OD traffic flow as traffic assignment, so we calibrate it with SSP data.Use the code generate_od_from_pr.py,define the SSP_BY_YEAR and run the code,then you can get od_matrix,using transformation_csv.py to convert the entire OD matrix into the forms of O_ID, D_ID, and number,then We can move to the next step.
 
 
 ## 3.Traffic assignment
