@@ -68,7 +68,13 @@ After running the above code, it is necessary to save the result data output by 
 We use arcgis to visualize VOC images of cities.You can also refer to this [GitHub repo](https://github.com/xuxiaotong/A_unified_and_validated_traffic_dataset_for_20_U.S._cities).In the step3,the output file including assignment_result.csv and network.csv,network.csv can be used to visualize the road network of cities' road network and assignment_result.csv including road network speed data and congestion level, we can put it into ArcGIS to output VOC maps.
 
 ## More features
+The code below can be used to help you analyze the OD you predict in step 2.
 
+./OD_predict_pr_and_analysis/origin_desination_profiles.py:This script turns each OD matrix into a few easy-to-read profiles
+
+./OD_predict_pr_and_analysis/year_to_year_change.py:This script compares OD flow matrices between two years (A -> B)
+
+./OD_predict_pr_and_analysis/pr_distribution_diagonostics.py:Computes distribution/concentration stats (sparsity, entropy, Gini, top-k mass shares, quantiles)
 
 
 ## Basic information on 4 representative U.S. cities we select as e.g.
