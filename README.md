@@ -81,11 +81,11 @@ Please fill in your city and year under ./accessibility_analyses, run the code.
 ## More features
 The code below can be used to help you analyze the OD you predict in step 2.
 
-./OD_predict_pr_and_analysis/origin_desination_profiles.py:This script turns each OD matrix into a few easy-to-read profiles
+./OD_predict_pr_and_analysis/origin_desination_profiles.py:This script turns each OD matrix into a few easy-to-read profiles.
 
-./OD_predict_pr_and_analysis/year_to_year_change.py:This script compares OD flow matrices between two years (A -> B)
+./OD_predict_pr_and_analysis/year_to_year_change.py:This script compares OD flow matrices between two years (A -> B).
 
-./OD_predict_pr_and_analysis/pr_distribution_diagonostics.py:Computes distribution/concentration stats (sparsity, entropy, Gini, top-k mass shares, quantiles)
+./OD_predict_pr_and_analysis/pr_distribution_diagonostics.py:Computes distribution/concentration stats (sparsity, entropy, Gini, top-k mass shares, quantiles).
 
 
 ## Basic information on 4 representative U.S. cities we select as e.g.
