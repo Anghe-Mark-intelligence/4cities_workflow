@@ -106,7 +106,7 @@ The code below can be used to help you analyze the OD you predict in step 2.
 
 
 ## Cite
-If you find the code useful, please cite:
+If you find the code useful, please cite this:
 
 ## License
 
