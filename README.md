@@ -10,7 +10,7 @@ Author1,Author2,Author3,Author4,Author5,Author6,Author7
 [Journal](https://remaintobeseen)
 
 
-In this repo, we built a workflow from OD prediction to traffic assignment, and then to urban congestion analysis and accessibility analysis in different [SSP scenario](https://github.com/usutradhar/Population-Trend-Analysis).The workflow can be divided into four stages: 1. LODES raw data processing 2. Time series model prediction of OD flow data 3. Traffic assignment 4. ArcGIS urban congestion visualization and accessibility analysis.
+In this repo, we built a workflow from OD prediction to traffic assignment, and then to urban congestion analysis and accessibility analysis in different [SSP scenario](https://github.com/usutradhar/Population-Trend-Analysis).The workflow can be divided into four stages: 1. LODES raw data processing 2. Time series model prediction of OD flow data 3. Traffic assignment 4. ArcGIS urban congestion visualization and accessibility analysis.If you have the corresponding data, you can use this framework to predict the changes in any city worldwide.
 
 
 <p align="center">
