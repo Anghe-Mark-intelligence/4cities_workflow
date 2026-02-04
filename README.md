@@ -89,6 +89,8 @@ The code below can be used to help you analyze the OD you predict in step 2.
 
 ./OD_predict_pr_and_analysis/pr_distribution_diagonostics.py:Computes distribution/concentration stats (sparsity, entropy, Gini, top-k mass shares, quantiles).
 
+./plot:You can find some plot code in this folder.
+
 
 ## Basic information on 4 representative U.S. cities we select as e.g.
 
