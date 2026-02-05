@@ -92,6 +92,14 @@ The code below can be used to help you analyze the OD you predict in step 2.
 ./plot:You can find some plot code in this folder.
 
 
+
+## Workflow
+
+<p align="center">
+ <img width="2278" height="474" alt="FIGUREWORK_FLOW" src="https://github.com/user-attachments/assets/ff206426-cf15-4749-b982-eb9880b12da0" />
+<p>
+
+
 ## Basic information on 4 representative U.S. cities we select as e.g.
 
 <p align="center">
